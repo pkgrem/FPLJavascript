@@ -1,4 +1,4 @@
-let price = 'Welcome Paddy',
+let price = 30,
     name = 'FIFA 23',
     discounted = false,
     discountamount = '50% OFF';
