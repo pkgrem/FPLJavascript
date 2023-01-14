@@ -1,9 +1,12 @@
-let price = 30,
-    name = 'FIFA 23',
+let price = 30.33,
+    nameofgame = 'FIFA 23',
     discounted = false,
     discountamount = '50% OFF';
 
-showMessage(name);
+showMessage(nameofgame);
+
+showMessage(price);
+
 
 showMessages(discountamount);
 
